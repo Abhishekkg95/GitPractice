@@ -1,6 +1,11 @@
+<<<<<<< HEAD
+Bagalpre
+ojsoa
 Home
 Swetha
 Prasanna
 lasya
 Sanju
 VInay
+=======
+>>>>>>> parent of a4f65ae (Updated 1.txt)
